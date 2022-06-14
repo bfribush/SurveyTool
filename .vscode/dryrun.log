@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/benfribush/Documents/PlatformIO/Projects/SurveyTool'
+make: Leaving directory `/Users/benfribush/Documents/PlatformIO/Projects/SurveyTool'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
