@@ -29,7 +29,6 @@ void IRAM_ATTR isr(){
     
 }
 
-
 void setup(void) {
 
   pinMode(33, INPUT);
