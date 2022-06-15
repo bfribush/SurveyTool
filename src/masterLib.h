@@ -2,6 +2,10 @@
 #include "Adafruit_GFX.h"
 #include "Adafruit_HX8357.h"
 #include <Wire.h>
+//#include "FreeRTOSConfig.h"
+//#include "freertos/FreeRTOS.h"
+//#include <avr/io.h>
+
 
 #define TFT_CS 4
 #define TFT_DC 13
